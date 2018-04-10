@@ -1,7 +1,7 @@
 {
      "semanticCommits": true,
        "packageRules": [{
-        "packagePattern": ["*"],
+        "packagePatterns": ["*"],
         "semanticCommitType": "what"
       }]
 }
