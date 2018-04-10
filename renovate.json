@@ -1,0 +1,11 @@
+{
+     "semanticCommits": true,
+       "packageRules": [        {
+        "packagePatterns": ["*"],
+        "semanticCommitType": "chore"
+        },
+        {
+          "depTypeList": ["dependencies"],
+          "semanticCommitType": "fix"
+        }]
+}
